@@ -11,3 +11,7 @@ dev_
 ### description
 
 30 different ways to study important concepts in javascript, without creating a TODO
+
+
+* drum 
+* animated clock 
