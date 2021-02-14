@@ -1,4 +1,4 @@
-## to not do 
+## WIP: to not do 
 
 dev_
 @priscilaandreani
@@ -13,5 +13,5 @@ dev_
 30 different ways to study important concepts in javascript, without creating a TODO
 
 
-* drum 
-* animated clock 
+* [Keyboard Drum](https://github.com/priscilaandreani/toNOTdo/tree/main/01_drumJS)
+* [Animated Clock](https://github.com/priscilaandreani/toNOTdo/tree/main/02_Clock)
