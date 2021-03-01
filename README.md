@@ -1,12 +1,9 @@
 ## WIP: to not do 
 
-dev_
-@priscilaandreani
-
 
 ### tech
 
-* vanilla javacript
+* vanilla javascript
 
 ### description
 
