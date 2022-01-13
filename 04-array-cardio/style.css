@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+h1,
+li,
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+pre {
+  background-color: #282a37;
+  padding: 16px;
+  color: #fff;
+  border-radius: 8px;
+  border-top: 20px solid #020410;
+}
+
+pre span {
+  color: #ffaae9;
+}
+
+li {
+  margin-bottom: 16px;
+}
