@@ -3,26 +3,25 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>
 </p>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- Javascript
-- CSS
-
-## 💻 Projeto
-
-**toNOTdo** is a project inspired by the [Javascript 30](https://javascript30.com/) challenge and proposes 30 different ways to study important javascript concepts without creating ToDo's.
+- [Javascript](https://www.javascript.com/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ❌ No frameworks
 ❌ No compilers
-
 ❌ No libraries
 ❌ No boilerplate
+
+## 💻 Project
+
+**toNOTdo** is a project inspired by the [Javascript 30](https://javascript30.com/) challenge and proposes 30 different ways to study important javascript concepts without creating ToDo's.
 
 <h2>🍾 Challanges</h2>
 
