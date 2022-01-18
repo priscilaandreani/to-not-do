@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="toNOTdo" title="toNOTdo" src="./home/assets/logo.svg" />
+  <img alt="toNOTdo" title="toNOTdo" src="./home/assets/logo.svg" width="300"/>
 </h1>
 
 <p align="center">
