@@ -30,3 +30,4 @@ This project was developed with the following technologies:
 - [Update CSS Variables with JS](https://github.com/priscilaandreani/to-not-do/tree/03_playing-with-js-css)
 - [Array Cardio](https://github.com/priscilaandreani/to-not-do/tree/master/04-array-cardio)
 - [Flex Panel Images Gallery](https://github.com/priscilaandreani/to-not-do/tree/master/05-flex-panel-gallery)
+- [Ajax Type Ahead](https://github.com/priscilaandreani/to-not-do/tree/master/06-ajax-type-ahead)
